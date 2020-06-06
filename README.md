@@ -26,7 +26,7 @@ The system use a clear and easy to use interface with multiple options:
 [![panel-3.gif](https://i.postimg.cc/1Xz718pG/panel-3.gif)](https://postimg.cc/ft6fxTqy)
 
 **Add vehicles by type (big vehicles and/or small vechicles):**
-A mechanic can handle only 3 little cars and a big one.
+A mechanic can handle only 3 normal cars and a big one.
 
 [IMPORTANT] Still in work : Calculate the insurance cost based on the type of the engine, the cilindrical capacity and the age of the car (feel free to browser the code)
 
