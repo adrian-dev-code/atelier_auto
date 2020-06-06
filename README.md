@@ -18,14 +18,12 @@ The system use a clear and easy to use interface with multiple options:
 **Show employee: **
 [![panel-2.gif](https://i.postimg.cc/T1GGVJvR/panel-2.gif)](https://postimg.cc/gXMfdR05)
 
-**Note : If there is no employee, then, the system will print the message: "There are no employees found (but translated in Romaninan)"**
+**Note : If there are no employees, then, the system will print the message: "There are no employees found"**
 **Print sold**
 
-[![printsold.gif](https://i.postimg.cc/DypJsVPs/printsold.gif)](https://postimg.cc/SJ8xFv5N)
+**Delete employees by id (the id (index) starts from 0):**
+[![panel-3.gif](https://i.postimg.cc/1Xz718pG/panel-3.gif)](https://postimg.cc/ft6fxTqy)
 
-**A flawless and secured option to change your password based on id**
-
-[![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
 
 ***and more :).***
 
