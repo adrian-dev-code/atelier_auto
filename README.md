@@ -15,7 +15,7 @@ The system use a clear and easy to use interface with multiple options:
 1 for mechanic,
 2 for assistant***
 
-**Show employee: **
+**Show employee:**
 [![panel-2.gif](https://i.postimg.cc/T1GGVJvR/panel-2.gif)](https://postimg.cc/gXMfdR05)
 
 **Note : If there are no employees, then, the system will print the message: "There are no employees found"**
