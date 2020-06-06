@@ -21,15 +21,20 @@ The system use a clear and easy to use interface with multiple options:
 **Note : If there are no employees, then, the system will print the message: "There are no employees found"**
 **Print sold**
 
+
 **Delete employees by id (the id (index) starts from 0):**
 [![panel-3.gif](https://i.postimg.cc/1Xz718pG/panel-3.gif)](https://postimg.cc/ft6fxTqy)
 
+**Add vehicles by type (big vehicles and/or small vechicles):**
+A mechanic can handle only 3 little cars and a big one.
+
+[IMPORTANT] Still in work : Calculate the insurance cost based on the type of the engine, the cilindrical capacity and the age of the car (feel free to browser the code)
 
 ***and more :).***
 
 All of these are possible with the help of a good, reliable and easy to read object-oriented code:
 
-[![code.gif](https://i.postimg.cc/02D6Ln63/code.gif)](https://postimg.cc/Yh2qF1zf)
+[![panel-4.gif](https://i.postimg.cc/Kvtb9V8m/panel-4.gif)](https://postimg.cc/jLqB2Mf1)
 
 
 
