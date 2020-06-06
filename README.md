@@ -10,7 +10,10 @@ The system use a clear and easy to use interface with multiple options:
 
 [![login-panel.gif](https://i.postimg.cc/mk6MzDKy/login-panel.gif)](https://postimg.cc/N2mLZgsK)
 
-***You can also select the type of employee : 0-> director  1->mechanic  2->assistant***
+***You can also select the type of employee : 
+0-> director 
+1->mechanic
+2->assistant***
 
  **Print sold**
 
