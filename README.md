@@ -12,7 +12,7 @@ The system use a clear and easy to use interface with multiple options:
 
 ***You can also select the type of employee : 
 0 for director, 
-1 for mechanic
+1 for mechanic,
 2 for assistant***
 
  **Print sold**
