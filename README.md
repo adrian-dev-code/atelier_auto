@@ -6,7 +6,7 @@ The system use a clear and easy to use interface with multiple options:
 
 [![Capture.png](https://i.postimg.cc/TPZ4m2vG/Capture.png)](https://postimg.cc/sB4mCr20)
 
- **Add employee (this option also check if the candidate has the legal age of 18 years old.)**
+ **Add employee (this option also check if the candidate has the legal age of 18 years old):**
 
 [![login-panel.gif](https://i.postimg.cc/mk6MzDKy/login-panel.gif)](https://postimg.cc/N2mLZgsK)
 
