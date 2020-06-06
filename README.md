@@ -19,14 +19,13 @@ The system use a clear and easy to use interface with multiple options:
 [![panel-2.gif](https://i.postimg.cc/T1GGVJvR/panel-2.gif)](https://postimg.cc/gXMfdR05)
 
 **Note : If there are no employees, then, the system will print the message: "There are no employees found"**
-**Print sold**
-
 
 **Delete employees by id (the id (index) starts from 0):**
 [![panel-3.gif](https://i.postimg.cc/1Xz718pG/panel-3.gif)](https://postimg.cc/ft6fxTqy)
 
 **Add vehicles by type (big vehicles and/or small vechicles):**
 A mechanic can handle only 3 normal cars and a big one.
+
 
 [IMPORTANT] Still in developement : Calculate the insurance cost based on the type of the engine, the cilindrical capacity and the age of the car and other criteria (feel free to inspect the code)
 
