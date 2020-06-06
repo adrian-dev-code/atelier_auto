@@ -15,7 +15,11 @@ The system use a clear and easy to use interface with multiple options:
 1 for mechanic,
 2 for assistant***
 
- **Print sold**
+**Show employee: **
+[![panel-2.gif](https://i.postimg.cc/T1GGVJvR/panel-2.gif)](https://postimg.cc/gXMfdR05)
+
+**Note : If there is no employee, then, the system will print the message: "There are no employees found (but translated in Romaninan)"**
+**Print sold**
 
 [![printsold.gif](https://i.postimg.cc/DypJsVPs/printsold.gif)](https://postimg.cc/SJ8xFv5N)
 
