@@ -2,7 +2,7 @@
 
 **A simple and powerful system for the management of employees of an auto service**
 
-The system use a clear and easy to use interface with multiple options:
+The system uses a clear and intuitive interface with multiple options:
 
 [![Capture.png](https://i.postimg.cc/TPZ4m2vG/Capture.png)](https://postimg.cc/sB4mCr20)
 
